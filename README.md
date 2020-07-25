@@ -5,9 +5,9 @@ I also casually [blog](https://jibin.tech/blog) on topics that I learn.
 
 
 ### Reach out to me on
-- Portfolio [jibin.tech](https://jibin.tech) *(will update the portfolio with new design)*
+- Portfolio **[jibin.tech](https://jibin.tech)**
 - Twitter **[@real_jibin](https://twitter.com/real_jibin)**
-- Linkedin [https://www.linkedin.com/in/jibin2706](https://www.linkedin.com/in/jibin2706)
+- Linkedin **[https://www.linkedin.com/in/jibin2706](https://www.linkedin.com/in/jibin2706)**
 
 <!--
 **jibin2706/jibin2706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
