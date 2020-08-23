@@ -9,6 +9,8 @@ I also casually [blog](https://jibin.tech/blog) on topics that I learn.
 - Twitter **[@real_jibin](https://twitter.com/real_jibin)**
 - Linkedin **[https://www.linkedin.com/in/jibin2706](https://www.linkedin.com/in/jibin2706)**
 
+![](https://komarev.com/ghpvc/?username=jibin2706&label=Views)
+
 <!--
 **jibin2706/jibin2706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
