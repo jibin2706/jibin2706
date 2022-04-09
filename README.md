@@ -1,5 +1,5 @@
 ### Hi there I'm Jibin Thomas 👋
-A Frontend Developer based in Mumbai, India. I graduated from Wilson College in Bachelor of Science in Information Technology, tho everything that I know for the web is through self-learning. Currently, I work for [Pepper Content](https://www.peppercontent.in). While I'm not coding, you can find me playing chess or cricketing, reading fictional books, or binging on Netflix.
+A Frontend Developer based in Mumbai, India. I graduated from Wilson College in Bachelor of Science in Information Technology, tho everything that I know for the web is through self-learning. Currently, I work at [Pepper Content](https://www.peppercontent.in). While I'm not coding, you can find me playing chess or FPS games, reading fictional books, or binging on Netflix.
 
 I also casually [blog](https://jibin.tech/blog) on topics that I learn.
 
