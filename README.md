@@ -1,27 +1,16 @@
-### Hi there I'm Jibin Thomas 👋
-A Frontend Developer based in Mumbai, India. I graduated from Wilson College in Bachelor of Science in Information Technology, tho everything that I know for the web is through self-learning. Currently, I work at [Pepper Content](https://www.peppercontent.in). While I'm not coding, you can find me playing chess or FPS games, reading fictional books, or binging on Netflix.
-
-I also casually [blog](https://jibin.tech/blog) on topics that I learn.
+Hi there! I'm Jibin Thomas, a passionate Frontend Developer based in Mumbai, India. With over 5+ years of professional experience, I have honed my skills in creating exceptional web experiences. Currently, I am working at Pepper Content, where I contribute to building awesome web applications.
 
 
-### Reach out to me on
+When I'm not immersed in the world of code, I have a few other tricks up my sleeve. I enjoy playing FPS games and chess, diving into fictional books, and indulging in Netflix binges. Oh, and I also maintain a casual blog where I share my learnings and insights.
+
+Feel free to reach out to me through the following channels:
 - Portfolio **[jibin.tech](https://jibin.tech)**
 - Twitter **[@real_jibin](https://twitter.com/real_jibin)**
 - Linkedin **[https://www.linkedin.com/in/jibin2706](https://www.linkedin.com/in/jibin2706)**
 
+I'm always open to new opportunities, collaborations, and discussions. Let's connect and create something amazing together!
+
+Thank you for visiting my GitHub profile. Have a great day!
+
 ![](https://komarev.com/ghpvc/?username=jibin2706&label=Views)
 
-<!--
-**jibin2706/jibin2706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
