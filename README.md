@@ -1,4 +1,5 @@
-Hi there! I'm Jibin Thomas, a passionate Frontend Developer based in Mumbai, India. With over 5+ years of professional experience, I have honed my skills in creating exceptional web experiences. Currently, I am working at Pepper Content, where I contribute to building awesome web applications.
+### Hi there I'm Jibin Thomas 👋
+A passionate Frontend Developer based in Mumbai, India. With over 5+ years of professional experience, I have honed my skills in creating exceptional web experiences. Currently, I am working at Pepper Content, where I contribute to building awesome web applications.
 
 
 When I'm not immersed in the world of code, I have a few other tricks up my sleeve. I enjoy playing FPS games and chess, diving into fictional books, and indulging in Netflix binges. Oh, and I also maintain a casual blog where I share my learnings and insights.
